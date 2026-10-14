@@ -12,6 +12,6 @@ This repository is intended for compiled distribution assets and documentation. 
 
 ## 中文
 
-这是独立的 GitHub 中英文分支。解压 Releases 中的 ZIP，运行根目录 `Render W.exe`。中文系统默认中文，其他系统默认英文，也可手动切换。主版设置、历史和更新通道不会被这个分支覆盖。
+Render W 是用于 **Cinema 4D（C4D）和 Adobe After Effects（AE）的 Windows 渲染队列管理工具**，支持任务管理、检查点续渲、失败重试、输出预览和逐帧耗时图表。此下载包为独立的 GitHub 中英文分支。解压 Releases 中的 ZIP，运行根目录 `Render W.exe`。中文系统默认中文，其他系统默认英文，也可手动切换。主版设置、历史和更新通道不会被这个分支覆盖。
 
 GitHub 发布安装包不等于开源。客户端包含的代码和更新地址可以被分析；包内不提供上传密钥。详细操作见软件中的“帮助 → 使用教程”。
